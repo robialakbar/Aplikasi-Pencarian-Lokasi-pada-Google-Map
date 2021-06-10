@@ -1,1 +1,6 @@
-# Aplikasi-Pencarian-Lokasi-pada-Google-Map
+# UTS ANDROID GIS
+Robi Al Akbar
+NIM : 1811500116
+
+ISB ATMALUHUR
+
